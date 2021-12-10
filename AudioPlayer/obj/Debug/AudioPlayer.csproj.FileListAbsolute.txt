@@ -1,0 +1,10 @@
+C:\Users\Тоха\source\repos\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+C:\Users\Тоха\source\repos\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe
+C:\Users\Тоха\source\repos\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.pdb
+C:\Users\Тоха\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csprojAssemblyReference.cache
+C:\Users\Тоха\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.Form1.resources
+C:\Users\Тоха\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+C:\Users\Тоха\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
+C:\Users\Тоха\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Тоха\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.exe
+C:\Users\Тоха\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.pdb
